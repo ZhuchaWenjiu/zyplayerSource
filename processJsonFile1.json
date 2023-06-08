@@ -5,10 +5,7 @@
         "group": "559",
         "notEdit": true,
         "key": "色屌丝",
-        "id": "0",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "1"
     },
     {
         "name": "影库",
@@ -16,10 +13,7 @@
         "group": "559",
         "notEdit": true,
         "key": "影库",
-        "id": "1",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "2"
     },
     {
         "name": "裤兜",
@@ -27,10 +21,7 @@
         "group": "559",
         "notEdit": true,
         "key": "裤兜",
-        "id": "2",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "3"
     },
     {
         "name": "91麻豆",
@@ -38,10 +29,7 @@
         "group": "559",
         "notEdit": true,
         "key": "91麻豆",
-        "id": "3",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "4"
     },
     {
         "name": "吾爱",
@@ -49,10 +37,7 @@
         "group": "559",
         "notEdit": true,
         "key": "吾爱",
-        "id": "4",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "5"
     },
     {
         "name": "小姐姐",
@@ -60,10 +45,7 @@
         "group": "559",
         "notEdit": true,
         "key": "小姐姐",
-        "id": "5",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "6"
     },
     {
         "name": "葡萄",
@@ -71,10 +53,7 @@
         "group": "559",
         "notEdit": true,
         "key": "葡萄",
-        "id": "6",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "7"
     },
     {
         "name": "三级",
@@ -82,10 +61,7 @@
         "group": "559",
         "notEdit": true,
         "key": "三级",
-        "id": "7",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "8"
     },
     {
         "name": "丝袜",
@@ -93,10 +69,7 @@
         "group": "559",
         "notEdit": true,
         "key": "丝袜",
-        "id": "8",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "9"
     },
     {
         "name": "银窝",
@@ -104,10 +77,7 @@
         "group": "559",
         "notEdit": true,
         "key": "银窝",
-        "id": "9",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "10"
     },
     {
         "name": "集中营",
@@ -115,10 +85,7 @@
         "group": "559",
         "notEdit": true,
         "key": "集中营",
-        "id": "10",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "11"
     },
     {
         "name": "花魁",
@@ -126,10 +93,7 @@
         "group": "559",
         "notEdit": true,
         "key": "花魁",
-        "id": "11",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "12"
     },
     {
         "name": "探探",
@@ -137,10 +101,7 @@
         "group": "559",
         "notEdit": true,
         "key": "探探",
-        "id": "12",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "13"
     },
     {
         "name": "白嫖",
@@ -148,21 +109,17 @@
         "group": "559",
         "notEdit": true,
         "key": "白嫖",
-        "id": "13",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "14"
     },
     {
         "name": "老鸭",
         "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://player.77lehuo.com/aliplayer/?url=",
         "key": "老鸭",
-        "id": "14",
-        "download": " ",
-        "isActive": true
+        "id": "15",
+        "needjx": true
     },
     {
         "name": "涩涩",
@@ -170,10 +127,7 @@
         "group": "559",
         "notEdit": true,
         "key": "涩涩",
-        "id": "15",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "16"
     },
     {
         "name": "色猫",
@@ -181,10 +135,7 @@
         "group": "559",
         "notEdit": true,
         "key": "色猫",
-        "id": "16",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "17"
     },
     {
         "name": "酷豆",
@@ -192,10 +143,7 @@
         "group": "559",
         "notEdit": true,
         "key": "酷豆",
-        "id": "17",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "18"
     },
     {
         "name": "爱播",
@@ -203,21 +151,17 @@
         "group": "559",
         "notEdit": true,
         "key": "爱播",
-        "id": "18",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "19"
     },
     {
         "name": "葡萄",
         "api": "https://caiji.putaozy.net/inc/api.php",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://jiexi.putaozy.net/m3u8/?url=",
         "key": "葡萄",
-        "id": "19",
-        "download": " ",
-        "isActive": true
+        "id": "20",
+        "needjx": true
     },
     {
         "name": "名优",
@@ -225,10 +169,7 @@
         "group": "559",
         "notEdit": true,
         "key": "名优",
-        "id": "20",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "21"
     },
     {
         "name": "久草",
@@ -236,10 +177,7 @@
         "group": "559",
         "notEdit": true,
         "key": "久草",
-        "id": "21",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "22"
     },
     {
         "name": "CK",
@@ -247,10 +185,7 @@
         "group": "559",
         "notEdit": true,
         "key": "CK",
-        "id": "22",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "23"
     },
     {
         "name": "利来",
@@ -258,10 +193,7 @@
         "group": "559",
         "notEdit": true,
         "key": "利来",
-        "id": "23",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "24"
     },
     {
         "name": "番号",
@@ -269,10 +201,7 @@
         "group": "559",
         "notEdit": true,
         "key": "番号",
-        "id": "24",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "25"
     },
     {
         "name": "字幕",
@@ -280,10 +209,7 @@
         "group": "559",
         "notEdit": true,
         "key": "字幕",
-        "id": "25",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "26"
     },
     {
         "name": "富二代",
@@ -291,10 +217,7 @@
         "group": "559",
         "notEdit": true,
         "key": "富二代",
-        "id": "26",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "27"
     },
     {
         "name": "色色",
@@ -302,10 +225,7 @@
         "group": "559",
         "notEdit": true,
         "key": "色色",
-        "id": "27",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "28"
     },
     {
         "name": "哥哥妹妹",
@@ -313,10 +233,7 @@
         "group": "559",
         "notEdit": true,
         "key": "哥哥妹妹",
-        "id": "28",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "29"
     },
     {
         "name": "草莓",
@@ -324,10 +241,7 @@
         "group": "559",
         "notEdit": true,
         "key": "草莓",
-        "id": "29",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "30"
     },
     {
         "name": "银龙",
@@ -335,10 +249,7 @@
         "group": "559",
         "notEdit": true,
         "key": "银龙",
-        "id": "30",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "31"
     },
     {
         "name": "奶茶",
@@ -346,10 +257,7 @@
         "group": "559",
         "notEdit": true,
         "key": "奶茶",
-        "id": "31",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "32"
     },
     {
         "name": "黄黄",
@@ -357,10 +265,7 @@
         "group": "559",
         "notEdit": true,
         "key": "黄黄",
-        "id": "32",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "33"
     },
     {
         "name": "小湿妹",
@@ -368,10 +273,7 @@
         "group": "559",
         "notEdit": true,
         "key": "小湿妹",
-        "id": "33",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "34"
     },
     {
         "name": "香奶儿",
@@ -379,10 +281,7 @@
         "group": "559",
         "notEdit": true,
         "key": "香奶儿",
-        "id": "34",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "35"
     },
     {
         "name": "淫水机",
@@ -390,10 +289,7 @@
         "group": "559",
         "notEdit": true,
         "key": "淫水机",
-        "id": "35",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "36"
     },
     {
         "name": "美少女",
@@ -401,10 +297,7 @@
         "group": "559",
         "notEdit": true,
         "key": "美少女",
-        "id": "36",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "37"
     },
     {
         "name": "久久",
@@ -412,10 +305,7 @@
         "group": "559",
         "notEdit": true,
         "key": "久久",
-        "id": "37",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "38"
     },
     {
         "name": "AV集中营",
@@ -423,10 +313,7 @@
         "group": "559",
         "notEdit": true,
         "key": "AV集中营",
-        "id": "38",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "39"
     },
     {
         "name": "痴汉队长",
@@ -434,10 +321,7 @@
         "group": "559",
         "notEdit": true,
         "key": "痴汉队长",
-        "id": "39",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "40"
     },
     {
         "name": "天噜啦",
@@ -445,10 +329,7 @@
         "group": "559",
         "notEdit": true,
         "key": "天噜啦",
-        "id": "40",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "41"
     },
     {
         "name": "浪潮",
@@ -456,10 +337,7 @@
         "group": "559",
         "notEdit": true,
         "key": "浪潮",
-        "id": "41",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "42"
     },
     {
         "name": "四千",
@@ -467,10 +345,7 @@
         "group": "559",
         "notEdit": true,
         "key": "四千",
-        "id": "42",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "43"
     },
     {
         "name": "1024",
@@ -478,10 +353,7 @@
         "group": "559",
         "notEdit": true,
         "key": "1024",
-        "id": "43",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "44"
     },
     {
         "name": "水蜜桃",
@@ -489,10 +361,7 @@
         "group": "559",
         "notEdit": true,
         "key": "水蜜桃",
-        "id": "44",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "45"
     },
     {
         "name": "小姐姐",
@@ -500,32 +369,27 @@
         "group": "559",
         "notEdit": true,
         "key": "小姐姐",
-        "id": "45",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "46"
     },
     {
         "name": "秀色",
         "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://api.xiusebf.com/m3u8/?url=",
         "key": "秀色",
-        "id": "46",
-        "download": " ",
-        "isActive": true
+        "id": "47",
+        "needjx": true
     },
     {
         "name": "秀色2",
         "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://api.xiusebf.com/m3u8/?url=",
         "key": "秀色2",
-        "id": "47",
-        "download": " ",
-        "isActive": true
+        "id": "48",
+        "needjx": true
     },
     {
         "name": "芒果",
@@ -533,10 +397,7 @@
         "group": "559",
         "notEdit": true,
         "key": "芒果",
-        "id": "48",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "49"
     },
     {
         "name": "佳丽",
@@ -544,10 +405,7 @@
         "group": "559",
         "notEdit": true,
         "key": "佳丽",
-        "id": "49",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "50"
     },
     {
         "name": "乐鱼",
@@ -555,10 +413,7 @@
         "group": "559",
         "notEdit": true,
         "key": "乐鱼",
-        "id": "50",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "51"
     },
     {
         "name": "花椒2",
@@ -566,21 +421,17 @@
         "group": "559",
         "notEdit": true,
         "key": "花椒2",
-        "id": "51",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "52"
     },
     {
         "name": "花椒",
         "api": "https://cj.apihjzy.com/inc/api.php",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://m3u8.hjimg7.com/dp/?url=",
         "key": "花椒",
-        "id": "52",
-        "download": " ",
-        "isActive": true
+        "id": "53",
+        "needjx": true
     },
     {
         "name": "色色",
@@ -588,21 +439,17 @@
         "group": "559",
         "notEdit": true,
         "key": "色色",
-        "id": "53",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "54"
     },
     {
         "name": "乐播",
         "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://lbjx9.com/?url=",
         "group": "559",
         "notEdit": true,
         "key": "乐播",
-        "id": "54",
-        "download": " ",
-        "isActive": true
+        "id": "55",
+        "needjx": true
     },
     {
         "name": "鲨鱼",
@@ -610,10 +457,7 @@
         "group": "559",
         "notEdit": true,
         "key": "鲨鱼",
-        "id": "55",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "56"
     },
     {
         "name": "环亚",
@@ -621,10 +465,7 @@
         "group": "559",
         "notEdit": true,
         "key": "环亚",
-        "id": "56",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "57"
     },
     {
         "name": "辣椒",
@@ -632,10 +473,7 @@
         "group": "559",
         "notEdit": true,
         "key": "辣椒",
-        "id": "57",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "58"
     },
     {
         "name": "辣椒2",
@@ -643,10 +481,7 @@
         "group": "559",
         "notEdit": true,
         "key": "辣椒2",
-        "id": "58",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "59"
     },
     {
         "name": "大地",
@@ -654,10 +489,7 @@
         "group": "559",
         "notEdit": true,
         "key": "大地",
-        "id": "59",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "60"
     },
     {
         "name": "苍天",
@@ -665,10 +497,7 @@
         "group": "559",
         "notEdit": true,
         "key": "苍天",
-        "id": "60",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "61"
     },
     {
         "name": "天堂",
@@ -676,21 +505,17 @@
         "group": "559",
         "notEdit": true,
         "key": "天堂",
-        "id": "61",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "62"
     },
     {
         "name": "趣播",
         "api": "https://www.qbzyz.com/api.php/provide/vod/at/xml/",
         "group": "559",
         "notEdit": true,
-        "jiexiUrl": " ",
+        "jiexiUrl": "https://parse.qbzyz.com/parse?resources=",
         "key": "趣播",
-        "id": "62",
-        "download": " ",
-        "isActive": true
+        "id": "63",
+        "needjx": true
     },
     {
         "name": "010爱",
@@ -698,10 +523,7 @@
         "group": "559",
         "notEdit": true,
         "key": "010爱",
-        "id": "63",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "64"
     },
     {
         "name": "名优馆",
@@ -709,10 +531,7 @@
         "group": "559",
         "notEdit": true,
         "key": "名优馆",
-        "id": "64",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "65"
     },
     {
         "name": "利来",
@@ -720,10 +539,7 @@
         "group": "559",
         "notEdit": true,
         "key": "利来",
-        "id": "65",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "66"
     },
     {
         "name": "久草",
@@ -731,10 +547,7 @@
         "group": "559",
         "notEdit": true,
         "key": "久草",
-        "id": "66",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "67"
     },
     {
         "name": "字幕网",
@@ -742,10 +555,7 @@
         "group": "559",
         "notEdit": true,
         "key": "字幕网",
-        "id": "67",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "68"
     },
     {
         "name": "富二代",
@@ -753,10 +563,7 @@
         "group": "559",
         "notEdit": true,
         "key": "富二代",
-        "id": "68",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "69"
     },
     {
         "name": "狼少年",
@@ -764,10 +571,7 @@
         "group": "559",
         "notEdit": true,
         "key": "狼少年",
-        "id": "69",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "70"
     },
     {
         "name": "玖玖",
@@ -775,10 +579,7 @@
         "group": "559",
         "notEdit": true,
         "key": "玖玖",
-        "id": "70",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "71"
     },
     {
         "name": "色窝",
@@ -786,10 +587,7 @@
         "group": "559",
         "notEdit": true,
         "key": "色窝",
-        "id": "71",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "72"
     },
     {
         "name": "精工厂",
@@ -797,10 +595,7 @@
         "group": "559",
         "notEdit": true,
         "key": "精工厂",
-        "id": "72",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "73"
     },
     {
         "name": "大MM",
@@ -808,10 +603,7 @@
         "group": "559",
         "notEdit": true,
         "key": "大MM",
-        "id": "73",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "74"
     },
     {
         "name": "点点",
@@ -819,9 +611,6 @@
         "group": "559",
         "notEdit": true,
         "key": "点点",
-        "id": "74",
-        "download": " ",
-        "jiexiUrl": " ",
-        "isActive": true
+        "id": "75"
     }
 ]
